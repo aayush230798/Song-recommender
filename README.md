@@ -1,4 +1,4 @@
-## [Click here to visit the live project]
+## [Click here to visit the live project](https://aayush230798-song-recommender-app-5f0ke6.streamlit.app/)
 
 ### PROJECT DESCRIPTION:
 
